@@ -16,7 +16,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Site under construction. Won&quot;t be long, promise!
+          Site under construction. Won&apos;t be long, promise!
         </p>
       </main>
     </div>
